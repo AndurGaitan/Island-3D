@@ -2,6 +2,8 @@
 
 **Island 3D** es una página web interactiva que utiliza ilustraciones 3D para crear una experiencia inmersiva y atractiva para los usuarios. El proyecto combina las potentes capacidades de visualización de Three.js con la reactividad de React.js, y añade animaciones fluidas utilizando Framer Motion.
 
+Puedes [visitar este link](https://island.andresgaitandev.io) para probar el proyecto.
+
 ## Tecnologías utilizadas
 
 - **React.js**: Utilizado para construir la interfaz de usuario de manera eficiente y modular.
